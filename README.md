@@ -22,13 +22,3 @@ Whether it's building scalable backend services, crafting efficient algorithms, 
 Feel free to check out my repositories or reach out if you want to collaborate on a project or just have a chat about tech. I'm always open to discussing new ideas and opportunities.
 
 Happy coding! 😄
-
-<p align="center">
-  <a href="https://github.com/brycedouglasjames">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brycedouglasjames&theme=buefy&show_icons=true" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/brycedouglasjames">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brycedouglasjames&theme=buefy&layout=compact" />
-  </a>
-</p>
